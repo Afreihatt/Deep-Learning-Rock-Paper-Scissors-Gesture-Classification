@@ -1,5 +1,5 @@
 # Deep-Learning-Rock-Paper-Scissors-Gesture-Classification
-Goal: Build a high-accuracy deep learning system to classify hand gestures (Rock, Paper, Scissors) using Convolutional Neural Networks (CNNs) and Transfer Learning.
+**Goal**: Build a high-accuracy deep learning system to classify hand gestures (Rock, Paper, Scissors) using Convolutional Neural Networks (CNNs) and Transfer Learning.
 
 Dataset Name: Rock-Paper-Scissors Hand Gesture Dataset
 
